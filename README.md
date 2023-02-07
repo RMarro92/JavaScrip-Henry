@@ -1,2 +1,1 @@
-# JavaScrip-Henry
-Este es un repositorio del modulo 2 de henry
+prueba de como crear un repositorio y clonarlo de github a mi computadora.
